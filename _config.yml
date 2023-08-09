@@ -15,7 +15,9 @@ description: > # description of the site (multiple lines allowed)
 
 
  Follow on instagram
- url: "https://btcpay.bitcoinisenergy.org/apps/2VkKyYFCoqT45tq1bttPJHr84wAw/pos"
+ 
+- title: follow us
+  url: "https://btcpay.bitcoinisenergy.org/apps/2VkKyYFCoqT45tq1bttPJHr84wAw/pos"
 
 permalink: /:slug
 
