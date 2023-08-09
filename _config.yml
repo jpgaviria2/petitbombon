@@ -5,12 +5,6 @@ description: > # description of the site (multiple lines allowed)
  
  🤍Homemade Bakery 🌸Cakes, cupcakes
   
- Indulge your taste buds with our South American-inspired homemade bakery delights delivered right to your doorstep in the Vancouver area. Our delectable treats include alfajores, featuring delicate cookies filled with dulce de leche, and merengue, offering a light and airy confection that melts in your mouth. And don't miss our tangy and refreshing key lime pie, a perfect blend of sweet and tart flavors. Each dessert is lovingly crafted with authentic recipes and quality ingredients, ensuring a delightful experience with every bite. Experience the vibrant flavors of South America from the comfort of your home with our heavenly creations.
- Delivery available to Vancouver Area, free shipping orders over $50
- Follow on instagram
-title: follow us
-  url: https://btcpay.bitcoinisenergy.org/apps/2VkKyYFCoqT45tq1bttPJHr84wAw/pos
-
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
