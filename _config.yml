@@ -1,9 +1,9 @@
-title: Learn Bitcoin
-author: JP Gaviria
-url: https://www.btclearn.org # root address of the site
+title: Petit Bombon Bakery
+author:
+url: https://www.petitbombon.shop # root address of the site
 description: > # description of the site (multiple lines allowed)
  
-  📚 Your Comprehensive, Free Guide to Bitcoin 📚
+  🤍Homemade Bakery 🌸Cakes, cupcakes
 
 permalink: /:slug
 
