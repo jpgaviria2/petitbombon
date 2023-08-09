@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: Order with Bitcoin
+    url: https://btcpay.bitcoinisenergy.org/apps/2VkKyYFCoqT45tq1bttPJHr84wAw/pos
 
-  - title: blog
-    url: blog
+  - title: follow us on instagram
+    url: https://www.instagram.com/petitbombon12/
 
-  - title: website
-    url: https://www.petitbombon.shop
+  - title: Contact us at 778-997-9746
+    url: false
 
 project_entries:
   #- title: Alfajor
