@@ -9,9 +9,9 @@ navbar_entries:
     url: https://www.petitbombon.shop
 
 project_entries:
-  - title: Intro to Bitcoin
-    url: intro
-    desc: What is Bitcoin
+  - title: Alfajor
+    url: alfajor
+    desc: Try it out
 
   - title: Bitcoin incentives
     url: incentives
