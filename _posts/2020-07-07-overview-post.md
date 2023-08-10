@@ -74,6 +74,8 @@ Now a table:
 
 ![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
 
+![theme logo] (assets/images/favicon/alfajor.jpg)
+
 This is an image[^4]
 
 ---
