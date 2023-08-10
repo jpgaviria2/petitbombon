@@ -9,9 +9,9 @@ navbar_entries:
     url: false
 
 project_entries:
-  #- title: Alfajor
-  #  url: alfajor
-  #  desc: Try it out
+  - title: Alfajor
+    url: alfajor
+    desc: 
 
   #- title: Bitcoin incentives
   #  url: incentives
