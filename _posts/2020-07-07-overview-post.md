@@ -72,7 +72,7 @@ Now a table:
 
 ## Images
 
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+![theme logo](https://github.com/jpgaviria2/petitbombon/blob/master/assets/images/favicon/alfajor.jpg)
 
 favicon: "./assets/images/favicon/alfajor.jpg"
 
