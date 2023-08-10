@@ -3,7 +3,8 @@ author:
 url: https://www.petitbombon.shop # root address of the site
 description: > # description of the site (multiple lines allowed)
  
- 🤍Homemade Bakery 🌸Cakes, cupcakes
+ 🤍Homemade Bakery 🌸Cakes, cupcakes     Indulge your taste buds with our South American-inspired homemade bakery delights delivered right to your doorstep in the Vancouver area. Our delectable treats include alfajores, featuring delicate cookies filled with dulce de leche, and merengue, offering a light and airy confection that melts in your mouth. And don't miss our tangy and refreshing key lime pie, a perfect blend of sweet and tart flavors. Each dessert is lovingly crafted with authentic recipes and quality ingredients, ensuring a delightful experience with every bite. Experience the vibrant flavors of South America from the comfort of your home with our heavenly creations. Delivery available to Vancouver Area, free shipping orders over $50
+ 
   
 permalink: /:slug
 
@@ -26,7 +27,7 @@ theme_config:
   show_footer: false # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
-  show_projects: false # show projects as cards, add in _data/home.yml
+  show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
   show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
