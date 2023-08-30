@@ -1,6 +1,9 @@
 navbar_entries:
   - title: Order with Bitcoin
-    url: https://btcpay.bitcoinisenergy.org/apps/2VkKyYFCoqT45tq1bttPJHr84wAw/pos
+    url: https://merchants.bullbitcoin.com/apps/2icUSQZHf2ViWGNYe7PpidwqoRW4/pos
+
+  - title: Order on Square
+    url: https://petit-bombon.square.site
 
   - title: follow us on instagram
     url: https://www.instagram.com/petitbombon12/
